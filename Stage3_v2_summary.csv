@@ -1,0 +1,3 @@
+Question,Model,Baseline_crop_only
+Where is the crop grown? (AUC),0.91,0.717
+Yield where grown (R2; 0 = no better than crop average),0.114,0.0
