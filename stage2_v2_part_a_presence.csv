@@ -1,0 +1,6 @@
+Crop,AUC,Features,Note
+Castor,0.453,"Rainfall_Stress_mm, pH_Stress",leave-one-district-out
+Cumin,0.925,"Heat_Stress_C, Rainfall_Stress_mm, pH_Stress",leave-one-district-out
+Fennel,0.76,"Heat_Stress_C, Rainfall_Stress_mm, pH_Stress",leave-one-district-out
+Fenugreek,,,only one class or no varying features
+Isabgol,0.556,"Rainfall_Stress_mm, pH_Stress",leave-one-district-out

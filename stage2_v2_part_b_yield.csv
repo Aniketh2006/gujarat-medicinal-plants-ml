@@ -1,0 +1,16 @@
+Crop,Effect,Mean,HDI_3%,HDI_97%,P_direction,Evidence
+Castor,Heat,,,,,not identified
+Castor,Rainfall,-0.185,-0.368,0.015,0.96,moderate
+Castor,pH,0.682,0.484,0.881,1.0,clear
+Cumin,Heat,-0.331,-0.554,-0.107,0.998,clear
+Cumin,Rainfall,-0.096,-0.314,0.111,0.799,inconclusive
+Cumin,pH,-0.023,-0.215,0.177,0.584,inconclusive
+Fennel,Heat,-0.279,-0.543,-0.014,0.976,clear
+Fennel,Rainfall,0.045,-0.207,0.29,0.631,inconclusive
+Fennel,pH,0.086,-0.134,0.307,0.772,inconclusive
+Fenugreek,Heat,0.219,-0.066,0.493,0.932,moderate
+Fenugreek,Rainfall,0.015,-0.258,0.284,0.544,inconclusive
+Fenugreek,pH,,,,,not identified
+Isabgol,Heat,,,,,not identified
+Isabgol,Rainfall,0.075,-0.196,0.351,0.693,inconclusive
+Isabgol,pH,-0.043,-0.326,0.224,0.611,inconclusive

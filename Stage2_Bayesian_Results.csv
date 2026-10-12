@@ -1,0 +1,4 @@
+Stress_Factor,Posterior_Mean_Effect,Probability_Reduces_Yield_pct,Conclusion
+Heat stress,0.154,0.4,Traditional claim NOT supported (99.6% probability effect is non-negative)
+Rainfall stress,-0.041,79.7,Traditional claim CONFIRMED with 79.7% posterior probability
+pH stress,0.122,0.2,Traditional claim NOT supported (99.8% probability effect is non-negative)

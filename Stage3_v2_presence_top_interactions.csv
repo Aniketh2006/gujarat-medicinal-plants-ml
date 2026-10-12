@@ -1,0 +1,11 @@
+Feature_1,Feature_2,Mean_Abs_Interaction
+District_pH_Estimate,Plant_Cumin,0.1811
+District_pH_Estimate,Plant_Castor,0.1568
+Season_Avg_Humidity_pct,Plant_Fennel,0.1176
+Season_Avg_Temp_C,Plant_Isabgol,0.0892
+Season_Total_Rainfall_mm,Plant_Castor,0.0853
+Season_Total_Rainfall_mm,District_pH_Estimate,0.0847
+Season_Total_Rainfall_mm,Plant_Isabgol,0.0729
+Season_Avg_Temp_C,Season_Total_Rainfall_mm,0.0627
+Plant_Fennel,Plant_Isabgol,0.0604
+Season_Avg_Humidity_pct,Plant_Isabgol,0.0591
