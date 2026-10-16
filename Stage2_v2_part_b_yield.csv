@@ -1,0 +1,19 @@
+Scope,N_nonzero_rows,Mean,CI94,P_direction,Evidence
+POOLED heat,,-0.044,"[-0.43, +0.38]",0.61,inconclusive
+POOLED rainfall,,-0.034,"[-0.18, +0.13]",0.71,inconclusive
+POOLED pH,,0.141,"[-0.27, +0.52]",0.77,inconclusive
+Isabgol: heat,0.0,,-,,NOT IDENTIFIED (fewer than 10 rows with non-zero stress)
+Isabgol: rainfall,3.0,,-,,NOT IDENTIFIED (fewer than 10 rows with non-zero stress)
+Isabgol: pH,31.0,-0.064,"[-0.25, +0.18]",0.74,inconclusive
+Fennel: heat,48.0,-0.115,"[-0.31, +0.06]",0.88,inconclusive
+Fennel: rainfall,12.0,-0.023,"[-0.17, +0.15]",0.63,inconclusive
+Fennel: pH,36.0,0.023,"[-0.12, +0.17]",0.62,inconclusive
+Cumin: heat,63.0,-0.274,"[-0.43, -0.11]",1.0,clear
+Cumin: rainfall,56.0,-0.096,"[-0.25, +0.04]",0.92,weak/suggestive (interval includes 0)
+Cumin: pH,65.0,-0.018,"[-0.13, +0.10]",0.62,inconclusive
+Castor: heat,0.0,,-,,NOT IDENTIFIED (fewer than 10 rows with non-zero stress)
+Castor: rainfall,66.0,-0.118,"[-0.22, -0.01]",0.98,moderate
+Castor: pH,95.0,0.732,"[+0.62, +0.85]",1.0,clear
+Fenugreek: heat,1.0,,-,,NOT IDENTIFIED (fewer than 10 rows with non-zero stress)
+Fenugreek: rainfall,6.0,,-,,NOT IDENTIFIED (fewer than 10 rows with non-zero stress)
+Fenugreek: pH,0.0,,-,,NOT IDENTIFIED (fewer than 10 rows with non-zero stress)

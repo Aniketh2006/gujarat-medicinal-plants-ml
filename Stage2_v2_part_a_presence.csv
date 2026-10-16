@@ -1,0 +1,6 @@
+Plant,N,Pct_grown,LODO_AUC
+Castor,99,96.0,n/a (fewer than 10 rows in one class)
+Cumin,99,65.7,0.965
+Fennel,99,48.5,0.861
+Fenugreek,30,100.0,n/a (fewer than 10 rows in one class)
+Isabgol,99,31.3,0.712
